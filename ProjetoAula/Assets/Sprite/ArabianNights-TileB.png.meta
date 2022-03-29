@@ -1,0 +1,980 @@
+fileFormatVersion: 2
+guid: 5bdad3269ba0d4649aa2db5a7d95614f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArabianNights-TileB_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 413
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7afa547fbd5394496142b85ad067a0
+      internalID: 1882896306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 461
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9010e07d4184694ea8998de8f5ef494
+      internalID: -412844934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 448
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24962e991586ba49831af97446e0d07
+      internalID: -879858629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 419
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e3daa77c4fa1a469841e8b46b23914
+      internalID: -814813671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9edd9be793ffdb4a9ef723ff0428e03
+      internalID: -430543611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 483
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d15160073c65fd40a37dfd2065c8353
+      internalID: -1411339649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 400
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385ac0267070c4f4eaeab13a80ce9766
+      internalID: -1767872578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_7
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 400
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3be993909a2ab4d91ffa21afd87427
+      internalID: 1471080081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 400
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dde5c13d427e84c839b7568b6ab551
+      internalID: 1038100483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 384
+        width: 47
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f7f4811bfa300429ab4029c85f7825
+      internalID: 514885836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff62396282316b4e81d3c8a41300b44
+      internalID: 1229888966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 384
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9912b6224ea99d54c887c09698afe134
+      internalID: -1838400860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_12
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 417
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083049d1137578f48986b59eaadc1165
+      internalID: -1820650869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 390
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0390f6b56a8c2484d9ca41351d404684
+      internalID: -326165194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 390
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612d963b1c4e0084eaa9fe1ab995a1a0
+      internalID: 16144706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_15
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 384
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fbae891bc78ac4b904011f24f7336f
+      internalID: 560236210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 353
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0658f126dc800c469d6b459b5ee6999
+      internalID: 1083045541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 321
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf821c60d4cfa64b91e917ae55bbf5d
+      internalID: 1055334298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 362
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f9186b1fde6b845bfad89f6432131f
+      internalID: 1965097932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 288
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b3743a1d72c3a4baa65d389508c14f
+      internalID: -1391756895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 321
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d07560ca7f48a14da8c39912793b3ad
+      internalID: 1669722353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 330
+        width: 128
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e596999b571db40a5a8728642fe10b
+      internalID: 1311110829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 59
+        height: 80
+      alignment: 9
+      pivot: {x: 0.45200035, y: 0.10303517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fef10be8d94f649b5048606b92334a
+      internalID: -1976780421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 224
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc6c9c19e7280348bd56bd1a1406181
+      internalID: -1782335417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 262
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05781387e0f5c64a876c3eccd5e6d63
+      internalID: -1164831629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea146da756089844389929bf17c1705c
+      internalID: -636790411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 112
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d529b41a50b2e040ae5d26cf0bef56f
+      internalID: -1690050216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_27
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 223
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c63155e613b8d240ae41d283fe4a3a0
+      internalID: 1415437640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 80
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21398f05656e0d84ea595ce39f3bf37d
+      internalID: 223980867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_29
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 34
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c750be36a8fe6642a8eb15704a318b4
+      internalID: 1743590085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2
+        width: 30
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a991bd4e590af874ca72a4b19dc8c2ca
+      internalID: -2075559662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_31
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2
+        width: 30
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eda4c0b7f06cd94ea5eb7ce0a27a8f6
+      internalID: 1127752614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_32
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 34
+        width: 90
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62d1b605545ac54a995615c2f3861c7
+      internalID: 972919782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc200df415d8810458e614d9fbb10a98
+      internalID: -1677994856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 5
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29af76c132b6966449797c995633f88b
+      internalID: -1668914232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_35
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c37067a88d99b1488e4ec532fdb4e14
+      internalID: -2117375139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_36
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1107ae43e9ee56e4dba1e4891e991580
+      internalID: -1415179277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_37
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa056568c0cb55a4a830b387959915d1
+      internalID: 38219596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabianNights-TileB_38
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2ad006a8da528438b6ab630ad6b9b8
+      internalID: 2038166598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ArabianNights-TileB_10: 1229888966
+      ArabianNights-TileB_11: -1838400860
+      ArabianNights-TileB_27: 1415437640
+      ArabianNights-TileB_37: 38219596
+      ArabianNights-TileB_17: 1055334298
+      ArabianNights-TileB_8: 1038100483
+      ArabianNights-TileB_28: 223980867
+      ArabianNights-TileB_33: -1677994856
+      ArabianNights-TileB_7: 1471080081
+      ArabianNights-TileB_20: 1669722353
+      ArabianNights-TileB_35: -2117375139
+      ArabianNights-TileB_32: 972919782
+      ArabianNights-TileB_24: -1164831629
+      ArabianNights-TileB_4: -430543611
+      ArabianNights-TileB_25: -636790411
+      ArabianNights-TileB_19: -1391756895
+      ArabianNights-TileB_2: -879858629
+      ArabianNights-TileB_18: 1965097932
+      ArabianNights-TileB_22: -1976780421
+      ArabianNights-TileB_29: 1743590085
+      ArabianNights-TileB_9: 514885836
+      ArabianNights-TileB_1: -412844934
+      ArabianNights-TileB_15: 560236210
+      ArabianNights-TileB_0: 1882896306
+      ArabianNights-TileB_21: 1311110829
+      ArabianNights-TileB_23: -1782335417
+      ArabianNights-TileB_6: -1767872578
+      ArabianNights-TileB_26: -1690050216
+      ArabianNights-TileB_13: -326165194
+      ArabianNights-TileB_38: 2038166598
+      ArabianNights-TileB_3: -814813671
+      ArabianNights-TileB_31: 1127752614
+      ArabianNights-TileB_5: -1411339649
+      ArabianNights-TileB_14: 16144706
+      ArabianNights-TileB_16: 1083045541
+      ArabianNights-TileB_36: -1415179277
+      ArabianNights-TileB_34: -1668914232
+      ArabianNights-TileB_12: -1820650869
+      ArabianNights-TileB_30: -2075559662
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
