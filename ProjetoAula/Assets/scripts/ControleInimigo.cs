@@ -36,20 +36,11 @@ public class ControleInimigo : MonoBehaviour
             {
                 pontoAtual = 0;
             }
-        }
-        
-
-
+        }   
 
         direcao.Normalize();
         
         fisica.velocity = direcao * velocidade;
-
-
-
-
-
-
 
 
         if (direcao.x > 0.5f)
@@ -80,6 +71,7 @@ public class ControleInimigo : MonoBehaviour
             animacao.SetBool("direita", false);
             animacao.SetBool("baixo", true);
         }
+
 
     }
 }
