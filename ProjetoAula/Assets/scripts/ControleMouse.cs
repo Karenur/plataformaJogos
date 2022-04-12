@@ -88,6 +88,6 @@ public class ControleMouse : MonoBehaviour
         {
             fisica.velocity = direcao * velocidade;
         }
-
+        
     }
 }
