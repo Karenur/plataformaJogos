@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ControleTiro : MonoBehaviour
+public class ControleMeteoro : MonoBehaviour
 {
-    [SerializeField] float velocidade = 10;
+    [SerializeField] float velocidade = 1;
     [SerializeField] Rigidbody2D fisica;
     // Start is called before the first frame update
     void Start()
@@ -15,9 +15,9 @@ public class ControleTiro : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        fisica.velocity = new Vector2(0, velocidade);
+        fisica.velocity = new Vector2(0, -velocidade);
         Vector3 porcentagem = Camera.main.WorldToViewportPoint(transform.position);
-        if (porcentagem.y > 1)
+        if (porcentagem.y < -1)
         {
             MeDestroi();
         }
@@ -32,12 +32,5 @@ public class ControleTiro : MonoBehaviour
     void MeDestroi()
     {
         gameObject.SetActive(false);
-    }
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-
-        collision.gameObject.SetActive(false);
-        MeDestroi();
-
     }
 }
